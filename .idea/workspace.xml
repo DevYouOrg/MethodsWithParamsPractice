@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95fdfa79-2433-4c44-9096-5c956cb798e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WV6aG5xlkEVv39U8xGwlJBXJwZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="MethodsWithParamsPractice" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95fdfa79-2433-4c44-9096-5c956cb798e5" name="Default Changelist" comment="" />
+      <created>1579222476302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579222476302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="246" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579222508284">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state x="246" y="86" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1128.712@0.0.1128.712" timestamp="1579222508284" />
+    <state x="245" y="32" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1579224953200">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state x="245" y="32" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1128.712@0.0.1128.712" timestamp="1579224953200" />
+    <state width="1052" height="157" key="GridCell.Tab.0.bottom" timestamp="1579223618287">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state width="1052" height="157" key="GridCell.Tab.0.bottom/0.0.1128.712@0.0.1128.712" timestamp="1579223618287" />
+    <state width="1052" height="157" key="GridCell.Tab.0.center" timestamp="1579223618287">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state width="1052" height="157" key="GridCell.Tab.0.center/0.0.1128.712@0.0.1128.712" timestamp="1579223618287" />
+    <state width="1052" height="157" key="GridCell.Tab.0.left" timestamp="1579223618287">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state width="1052" height="157" key="GridCell.Tab.0.left/0.0.1128.712@0.0.1128.712" timestamp="1579223618287" />
+    <state width="1052" height="157" key="GridCell.Tab.0.right" timestamp="1579223618287">
+      <screen x="0" y="0" width="1128" height="712" />
+    </state>
+    <state width="1052" height="157" key="GridCell.Tab.0.right/0.0.1128.712@0.0.1128.712" timestamp="1579223618287" />
+  </component>
+</project>
